@@ -1,7 +1,8 @@
 This repository contains the software files associated with my mouse "Team Friendship" from the 23-24 academic year, when I took part in the Micromouse program associated with the IEEE Student Branch at UC Irvine. Some of the referenced files may not be included, solely because they are default files generated when creating a STM32 CubeIDE project, which is the IDE I used to program my mouse. All code written by me was included. The software was believed to be working in the end, but failed in the final competition at UCLA (AAMC) in what I believe was a thresholding issue with the IR sensors. I plan to improve upon and completely revamp my software in terms of organization and functionality in the upcoming 24-25 academic year, along with my responsibilities as Micromouse program lead.
 
 Below is an image of my mouse after assembly. This was actually my second design for my mouse, as I found my first one to be too large.
-[insert image here]
+<img src="https://github.com/user-attachments/assets/088dafd3-3382-43fc-bcc6-69f6ede5e491" width="350"> <img src="https://github.com/user-attachments/assets/08949dcb-3374-422a-9578-f2e031083893" width="350">
+
 
 At the overnight session before AAMC I was able to get my mouse working in first a 5x5 maze and subsequently the full size maze they had assembled for testing. I only have video of the 5x5 maze sadly. 
 
